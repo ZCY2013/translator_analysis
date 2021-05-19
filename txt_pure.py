@@ -1,8 +1,8 @@
 # coding: utf-8
 import re
 
-my_file_path = "haryy_potter.txt"
-save_file_path = "haryy_potter_pure.txt"
+my_file_path = "resources/haryy_potter.txt"
+save_file_path = "resources/haryy_potter_pure.txt"
 
 if __name__ == '__main__':
 
